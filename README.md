@@ -12,6 +12,6 @@ What things you need to install the software and how to install them
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Express](http://expressjs.com/en/4x/api.html) - The web framework used
+* [Handlebars](https://handlebarsjs.com/guide/) - Templating engine used
+* [Fetch API](https://rometools.github.io/rome/) - Used to generate RSS Feeds
