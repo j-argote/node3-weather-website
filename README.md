@@ -7,3 +7,8 @@ It's a simple website where users can type a city name and get real-time weather
 * [Express](http://expressjs.com/en/4x/api.html) 
 * [Handlebars](https://handlebarsjs.com/guide/) 
 * [Request](https://rometools.github.io/rome/)  
+
+
+## API's Used
+* [Mapbox API](https://docs.mapbox.com/api/) - To convert location text into geographic coordinates
+* [Dark Sky API](https://darksky.net/dev/docs) - To look up weather forecast 
