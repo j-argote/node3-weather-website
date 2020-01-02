@@ -4,9 +4,9 @@ It's a simple website where users can type a city name and get real-time weather
 
 ## Built With
 * [Node](https://nodejs.org/dist/latest-v12.x/docs/api/) 
-* [Express](http://expressjs.com/en/4x/api.html) 
-* [Handlebars](https://handlebarsjs.com/guide/) 
-* [Request](https://rometools.github.io/rome/)  
+* [Express](http://expressjs.com/en/4x/api.html) - The web framework used
+* [Handlebars](https://handlebarsjs.com/guide/) - Templating engine used
+* [Request](https://rometools.github.io/rome/)  - Npm node module for making HTTP calls
 
 
 ## API's Used
